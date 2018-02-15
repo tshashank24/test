@@ -1,0 +1,1 @@
+cloc .  --exclude-list-file=cloc.ignore --exclude-dir=Experiments,Documentation,optimage,.git,.vscode,.idea; cloc . --exclude-dir=Experiments,Documentation,optimage,.git,.vscode,.idea --by-file --exclude-list-file=cloc.ignore
